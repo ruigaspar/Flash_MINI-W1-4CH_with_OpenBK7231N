@@ -88,10 +88,12 @@ Please note that the RX pin of the switch should be connected to the TX pin of t
   "pins": {
     "6": "TglChanOnTgl;1",
     "7": "TglChanOnTgl;2",
+    "8": "TglChanOnTgl;3",
+    "9": "TglChanOnTgl;4",
     "10": "Rel;1",
-    "11": "WifiLED_n;0",
-    "23": "Btn_Tgl_All;0",
     "24": "Rel;2"
+    "26": "Rel;3"
+    "28": "Rel;4"
   },
   "command": "",
   "image": "https://raw.githubusercontent.com/ruigaspar/Flash_MINI-W1-4CH_with_OpenBK7231N/master/images/MINI-W1-4CH.jpg",
